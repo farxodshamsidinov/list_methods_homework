@@ -9,4 +9,7 @@ def main(numbers1, numbers2):
     Returns:
         list: return answer
     """
-    return
+    numbers1.pop(-1)
+    a=numbers1+numbers2
+    print(main("ddfggsc08","hgssfgssbwgwj"))
+    return a 
